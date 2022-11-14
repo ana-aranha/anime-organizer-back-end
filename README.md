@@ -12,7 +12,9 @@ Project plans to create an application that organizes your list of anime into ca
 
 3- Create a PostgreSQL database with the given dump.sql;
 
-4- run "npm run dev" to start application
+4 - Create an .env file with the database connection
+
+5- Run "npm run dev" to start application
 
 
 # routes (CRUD)

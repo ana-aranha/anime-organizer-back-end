@@ -25,7 +25,7 @@ Project plans to create an application that organizes your list of anime into ca
 
 4- Delete: send an delete request to http://localhost:4000/myanimes/delete/NUMBER specifying the id of the anime to be deleted by params
 
-# Import informations
+# Important informations
 
 1 - Soon the users CRUD will be implemented. For now the routes in the list refer to a test user, "KonoDioDa", which you will see the information in the users table. Once implemented, routes will be verified via bearer authorization; 
 
